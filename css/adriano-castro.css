@@ -16,12 +16,16 @@ body {
     color: #fff;
 }
 
+.linknoticia {
+    font-size: 1.75rem;
+}
+
 .bg-title {
-    background-image: linear-gradient(to bottom right, #192a56, #40739e);
-    /* background: url('../img/banner.jpg');
+    /*background-image: linear-gradient(to bottom right, #192a56, #40739e);*/
+    background: url('../fotos/baner.jpg');
     background-size: cover;
     background-position-x: center;
-    background-position-y: center; */
+    background-position-y: center;
 }
 
 
